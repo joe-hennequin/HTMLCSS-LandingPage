@@ -269,8 +269,8 @@ footer a:hover { text-decoration: underline;}
     color: #e5e5e5;
     font-size: 16px;
 }
-.ps img { max-width: 230px;}
-.demo { padding: 0 30px;}
+.ps img { max-width: 230px; }
+.demo { padding: 0 30px; }
 .demo:before {
     content: "";
     display: block;
